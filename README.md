@@ -92,7 +92,7 @@ The figure contains subplots showing the loss curves for each optimizer:
 4. **Adam**
 5. **Nesterov Accelerated Gradient**
 
-\![Loss Curve Comparison](images/plot.png)
+![Loss Curve Comparison](images/plot.png)
 
 ## Usage
 The optimizers are implemented in Python using numpy and matplotlib for plotting. To run the code, simply execute the script, and it will generate and display the comparison plot of loss curves for each optimizer.
